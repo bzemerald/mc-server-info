@@ -1,5 +1,4 @@
-## Changelog: [CHANGELOG.md](CHANGELOG.md)
-## 服务器改进建议: [Google Doc](https://docs.google.com/document/d/1GYTYjY-pX9j_UmXoymBcfKm7JLlMElCjqNa0_3GaF5g/edit?usp=sharing)
+## Changelog: [CHANGELOG.md](CHANGELOG.md); 服务器改进建议: [Google Doc](https://docs.google.com/document/d/1GYTYjY-pX9j_UmXoymBcfKm7JLlMElCjqNa0_3GaF5g/edit?usp=sharing)
 
 ## 简介
 - 版本: 1.21.10
