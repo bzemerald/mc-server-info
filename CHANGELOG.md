@@ -1,4 +1,4 @@
-#Changelog
+# Changelog
 
 ## 2025-1-27
 - 新增Gamma插件
