@@ -8,5 +8,7 @@
 - GraveX: /grave list
 - ChestSorter: shift right click empty slot to sort
 - GammaPlugin: /gamma, /ungamma
-<img src="ping.png" width="48">
+
+
+<img src="ping.png" width="480">
 ![ping from over the world](ping.png)
