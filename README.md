@@ -2,11 +2,17 @@
 
 ## 简介
 - 版本: 1.21.10
-- 无客户端模组需求
+
+## 客户端模组需求:
+### 必须安装:
+- 无
+
+### 建议安装:
+- [Simple Voicechat](https://modrinth.com/plugin/simple-voice-chat/versions)
 
 ## 服务器插件列表
 - GraveX: /grave list
-- ChestSorter: shift right click empty slot to sort
+- ChestSorter: shift right click to sort
 - GammaPlugin: /gamma, /ungamma
 
 ## 延迟
