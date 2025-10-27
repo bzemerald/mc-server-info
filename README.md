@@ -9,6 +9,6 @@
 - ChestSorter: shift right click empty slot to sort
 - GammaPlugin: /gamma, /ungamma
 
-
-<img src="ping.png" width="480">
-![ping from over the world](ping.png)
+## 延迟
+<img src="ping.png" width="800">
+<!-- ![ping from over the world](ping.png) -->
