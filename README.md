@@ -10,6 +10,11 @@
 ### 建议安装:
 - [Simple Voicechat](https://modrinth.com/plugin/simple-voice-chat/versions)
 
+### 可选安装:
+- [Sodium](https://modrinth.com/mod/sodium/versions)
+- [Iris Shaders](https://modrinth.com/mod/iris)
+- [Zoomify(Fabric)](https://modrinth.com/mod/zoomify/versions?g=1.21.10&l=fabric)/[Just Zoom(Neoforge)](https://modrinth.com/mod/just-zoom/versions)
+
 ## 服务器插件列表
 - GraveX: /grave list
 - ChestSorter: shift right click to sort
