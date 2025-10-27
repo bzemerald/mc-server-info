@@ -6,7 +6,7 @@
 
 ## 服务器插件列表
 - GraveX: /grave list
-- ChestSorter: shift + right click to sort
+- ChestSorter: shift right click empty slot to sort
 - GammaPlugin: /gamma, /ungamma
 
 ![ping from over the world](ping.png)
