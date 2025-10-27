@@ -1,1 +1,1 @@
-![ping from over the world] (ping.png)
+![ping from over the world](ping.png)
