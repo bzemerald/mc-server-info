@@ -1,3 +1,3 @@
-Changelog: [changelog.md](CHANGELOG.md)
+Changelog: [CHANGELOG.md](CHANGELOG.md)
 
 ![ping from over the world](ping.png)
