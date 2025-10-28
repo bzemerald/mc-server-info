@@ -27,7 +27,7 @@
 - ChestSorter: shift right click to sort
 - GammaPlugin: /gamma, /ungamma
 
-## 提交改进建议: 
+## 插件建议: 
 [Google Doc](https://docs.google.com/document/d/1GYTYjY-pX9j_UmXoymBcfKm7JLlMElCjqNa0_3GaF5g/edit?usp=sharing)
 
 ## Changelog: 
