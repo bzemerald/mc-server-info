@@ -26,6 +26,8 @@
 - GraveX: /grave list
 - ChestSorter: shift right click to sort
 - GammaPlugin: /gamma, /ungamma
+- SetHome: /sethome, /delhome, /home
+- TabTPS
 
 ## 插件建议: 
 [Google Doc](https://docs.google.com/document/d/1GYTYjY-pX9j_UmXoymBcfKm7JLlMElCjqNa0_3GaF5g/edit?usp=sharing)
